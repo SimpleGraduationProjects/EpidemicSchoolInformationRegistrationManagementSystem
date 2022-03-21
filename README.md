@@ -1,0 +1,2 @@
+# EpidemicSchoolInformationRegistrationManagementSystem
+疫情学校信息登记管理系统
